@@ -1,0 +1,30 @@
+{
+	"cronch": {
+		"category": "neutral",
+		"sounds": [
+			"pufferfishcronch:cronch"
+		],
+		"subtitle": "subtitle.pufferfishcronch.cronch"
+	},
+	"cough": {
+		"category": "neutral",
+		"sounds": [
+			"pufferfishcronch:cough"
+		],
+		"subtitle": "subtitle.pufferfishcronch.cough"
+	},
+	"squelch": {
+		"category": "neutral",
+		"sounds": [
+			"pufferfishcronch:squelch"
+		],
+		"subtitle": "subtitle.pufferfishcronch.squelch"
+	},
+	"brain_damage": {
+		"category": "neutral",
+		"sounds": [
+			"random/wood_click"
+		],
+		"subtitle": "subtitle.pufferfishcronch.brain_damage"
+	}
+}

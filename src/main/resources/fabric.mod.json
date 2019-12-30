@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "pufferfishcronch",
+  "version": "1.0.0",
+
+  "name": "Pufferfish Cronch",
+  "description": "Haha funny meme pufferfish eat carrot",
+  "authors": [
+    "Shnupbups"
+  ],
+
+  "license": "LGPLv3",
+  "icon": "assets/pufferfishcronch/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.shnupbups.pufferfishcronch.PufferfishCronch"
+    ]
+  },
+  "mixins": [
+    "pufferfishcronch.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.6.1",
+    "fabric": "*"
+  }
+}

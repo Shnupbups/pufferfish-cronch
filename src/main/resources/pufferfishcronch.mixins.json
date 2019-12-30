@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "com.shnupbups.pufferfishcronch.mixin",
+	"compatibilityLevel": "JAVA_8",
+	"mixins": [
+		"FishEntityMixin",
+		"PufferfishEntityMixin"
+	],
+	"client": [
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
